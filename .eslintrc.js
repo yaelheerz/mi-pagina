@@ -18,6 +18,7 @@ module.exports = {
   },
   plugins: ["react"],
   rules: {
+    "indent": "off",
     // Next.js
     "@typescript-eslint/triple-slash-reference": "off",
     "react/react-in-jsx-scope": "off",
