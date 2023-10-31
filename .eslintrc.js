@@ -11,6 +11,7 @@ module.exports = {
     "xo",
     "xo-typescript",
     "xo-react",
+    "prettier",
   ],
   parserOptions: {
     ecmaVersion: "latest",
@@ -20,13 +21,13 @@ module.exports = {
   rules: {
     "indent": "off",
     "@next/next/no-page-custom-font": "off",
+    "react/jsx-indent": "off",
 
     // Next.js
     "@typescript-eslint/triple-slash-reference": "off",
     "react/react-in-jsx-scope": "off",
 
     "no-tabs": ["error"],
-    "react/jsx-indent": ["error", 2],
     "react/jsx-indent-props": ["error", 2],
 
     /* must be a space for object curly spacing */
