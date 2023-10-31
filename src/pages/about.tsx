@@ -11,7 +11,10 @@ export default function About() {
                 <title>yael — about</title>
                 <meta
                     name="description"
-                    content="hey, i'm yael, an 18-year-old software developer and designer based in Spain. I strive to build unique and polished web interfaces for both consumer and business ends. I'm currently working on Telefónica Spain."
+                    content="hey, i'm yael, an 18 year old software engineer and designer based in
+        spain. i strive to build unique and polished web
+        interfaces for both consumer and business ends. i love football,
+        cats, and design cool stuff! i'm currently working on telefonica."
                 />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <link rel="icon" href="/favicon.ico" />
@@ -21,13 +24,15 @@ export default function About() {
                 <AnimatedText element="h1" text="About" />
             </TitleWrapper>
             <p>
-                Hey, I'm Yael, an 18-year-old software developer and designer based in Spain.
-                I strive to build unique and polished web interfaces for both consumer and business ends.
+                hey, i'm yael, an 18 year old software engineer and designer based in
+                spain. i strive to build unique and polished web
+                interfaces for both consumer and business ends. i love football,
+                cats, and design cool stuff!
                 <br />
                 <br />
-                Currently working on{" "}
+                currently working on{" "}
                 <a href="https://www.telefonica.es/es/" target="_blank" rel="noreferrer">
-                    Telefónica
+                    Hop
                 </a>
             </p>
         </AnimatedPage>
