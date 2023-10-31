@@ -64,7 +64,7 @@ const Nav = () => {
     <Wrapper>
       <h2>
         <Link href="/">
-          <span>CM</span>
+          <span>YH</span>
         </Link>
       </h2>
       <motion.ul animate="animate" initial="initial" transition={TRANSITION}>
