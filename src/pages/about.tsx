@@ -26,7 +26,7 @@ export default function About() {
                 <br />
                 Currently working on{" "}
                 <a href="https://www.telefonica.es/es/" target="_blank" rel="noreferrer">
-                    Hop
+                    Telefónica
                 </a>
             </p>
         </AnimatedPage>
