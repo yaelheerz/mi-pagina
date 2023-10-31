@@ -21,7 +21,8 @@ export default function About() {
                 <AnimatedText element="h1" text="About" />
             </TitleWrapper>
             <p>
-                Hey, I'm Yael, an 18-year-old software developer and designer based in Spain. I strive to build unique and polished web interfaces for both consumer and business ends.
+                Hey, I'm Yael, an 18-year-old software developer and designer based in Spain.
+                I strive to build unique and polished web interfaces for both consumer and business ends.
                 <br />
                 <br />
                 Currently working on{" "}

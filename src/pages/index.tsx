@@ -161,7 +161,7 @@ export default function Home() {
           animate={animationControls}
         >
           <AnimatedText element="h1" text="Yael" />
-          <AnimatedText element="h1" text="Hernández" />
+          <AnimatedText element="h1" text="" />
 
           <AnimatedText
             element="span"

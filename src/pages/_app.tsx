@@ -116,7 +116,7 @@ export default function App({ Component, pageProps }: AppProps) {
           />
 
           <text fill="white" style={{ fontSize: "0.5em" }}>
-            <textPath xlinkHref="#curve">VISIT</textPath>
+            <textPath xlinkHref="#curve">VISITAR</textPath>
           </text>
         </svg>
       </Cursor>
