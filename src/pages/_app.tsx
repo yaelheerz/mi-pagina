@@ -7,6 +7,15 @@ import Nav from "../components/Nav";
 import { loadCursor } from "../utils/cursor";
 import { Analytics } from "@vercel/analytics/react";
 import usePreferredTheme from "../utils/hooks/usePreferredTheme";
+import { GeistSans } from "geist/font";
+
+export default function MyApp({ Component, pageProps }) {
+  return (
+      <main className={GeistSans.className}>
+        <Component {...pageProps} />
+      </main>
+  )
+}
 
 const svgAnimation = keyframes({
   "0%": {
