@@ -1,5 +1,5 @@
 const EMAIL = "contact@yael.es";
-const GITHUB = "https://github.com/yaelhdxz";
+const GITHUB = "https://github.com/yaelhddz";
 const TWITTER = "https://twitter.com/yaelhdxz";
 const LINKEDIN = "https://linkedin.com/in/yaelhdez/";
 const INSTAGRAM = "https://instagram.com/yaelhddz";
