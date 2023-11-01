@@ -168,7 +168,7 @@ export default function Home() {
             text="Software Developer"
             artificialDelay={2.5}
           />
-          <AnimatedText element="span" text="Designer" artificialDelay={3.5} />
+          <AnimatedText element="span" text="UX/UI Designer" artificialDelay={3.5} />
         </MotionTitleWrapper>
       </Wrapper>
     </>

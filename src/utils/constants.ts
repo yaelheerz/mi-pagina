@@ -8,7 +8,11 @@ const DISCORD_ID = "207204046115831809";
 
 const WORK = [
   {
-
+    company: "Garaje de Ideas",
+    position: "Design Research.",
+    link: "https://www.garajedeideas.es/",
+    description:
+        "“Garaje de Ideas” is a UX Design, Data Technology, and Growth agency based in Spain.",
   },
 ];
 

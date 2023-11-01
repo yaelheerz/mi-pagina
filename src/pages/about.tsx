@@ -21,12 +21,12 @@ export default function About() {
                 <AnimatedText element="h1" text="About" />
             </TitleWrapper>
             <p>
-                hey, I'm yael, an 18-year-old software engineer and designer based in Spain. I strive to build unique and polished web interfaces for both consumer and business ends. I love football, cats, and design cool stuff!
+                hey, I'm yael, an 18-year-old software developer and UX/UI designer based in Spain. I strive to build unique and polished web interfaces for both consumer and business ends. I love football, cats, and design cool stuff!
                 <br />
                 <br />
                 Currently working on{" "}
-                <a href="https://www.telefonica.es/es/" target="_blank" rel="noreferrer">
-                    Telefónica
+                <a href="https://www.garajedeideas.es/" target="_blank" rel="noreferrer">
+                    Garaje de Ideas
                 </a>
             </p>
         </AnimatedPage>
