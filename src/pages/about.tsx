@@ -14,7 +14,7 @@ export default function About() {
                     content="hey, i'm yael, an 18-year-old software engineer and designer based in Spain. I strive to build unique and polished web interfaces for both consumer and business ends. I love football, cats, and design cool stuff! I'm currently working on telefonica."
                 />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="" />
             </Head>
 
             <TitleWrapper>
