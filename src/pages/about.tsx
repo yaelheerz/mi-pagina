@@ -24,9 +24,9 @@ export default function About() {
                 hey, I'm yael, an 18-year-old software developer and UX/UI designer based in Spain. I strive to build unique and polished web interfaces for both consumer and business ends. I love football, cats, and design cool stuff!
                 <br />
                 <br />
-                Currently working on{" "}
-                <a href="https://www.garajedeideas.es/" target="_blank" rel="noreferrer">
-                    Garaje de Ideas
+                Currently available{" "}
+                <a href="" target="_blank" rel="noreferrer">
+
                 </a>
             </p>
         </AnimatedPage>
